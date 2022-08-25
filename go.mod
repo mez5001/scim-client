@@ -1,4 +1,4 @@
-module github.com/PennState/scim-client
+module github.com/mez5001/scim-client
 
 go 1.18
 
